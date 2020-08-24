@@ -27,18 +27,18 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://faceidentification.herokuapp.com/"
     },
-    {
-      id: 2, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Two",
-      imageSrc: "https://via.placeholder.com/300",
-      url: "http://chetanverma.com/"
-    },
-    {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Three",
-      imageSrc: "https://via.placeholder.com/300",
-      url: "http://chetanverma.com/"
-    },
+    // {
+    //   id: 2, //DO NOT CHANGE THIS (Please)😅
+    //   title: "Project Two",
+    //   imageSrc: "https://via.placeholder.com/300",
+    //   url: "http://chetanverma.com/"
+    // },
+    // {
+    //   id: 3, //DO NOT CHANGE THIS (Please)😅
+    //   title: "Project Three",
+    //   imageSrc: "https://via.placeholder.com/300",
+    //   url: "http://chetanverma.com/"
+    // },
     // {
     //   id: 4, //DO NOT CHANGE THIS (Please)😅
     //   title: "Project Four",
