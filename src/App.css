@@ -189,17 +189,17 @@ a{
   /* Header */
 
   .header_container {
-    width: 80vw;
-    top: 2rem;
+    width: 75vw;
+    top: 1.8rem;
   }
 
   .header_container h1 {
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
 
 
   .header_container ul li {
-    padding-right: 1rem;
+    padding-right: 0.7rem;
   }
 
   /* Home */
